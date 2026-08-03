@@ -65,7 +65,7 @@ Sistema desenvolvido para gerenciar pacientes, médicos e consultas, com foco em
 
 ## 📈 GitHub Stats
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+🌐 Portfólio: https://victormorais777.github.io
 
 ---
 

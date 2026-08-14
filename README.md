@@ -1,11 +1,31 @@
-<!-- HEADER ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=200&section=header&text=João%20Victor&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20|%20Estágio%20/%20Júnior&descAlignY=58&descSize=18"/>
-</p>
+<!-- HEADER TERMINAL ANIMADO -->
+<div align="center">
+
+```bash
+┌──────────────────────────────────────────────────────────┐
+│                    ~/joao-victor                         │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  $ whoami                                                │
+│  > João Victor da Silva Morais                           │
+│                                                          │
+│  $ cat perfil.txt                                        │
+│  > Engenharia de Software @ UMC — 6º semestre            │
+│  > Desenvolvedor Freelancer | Estágio / Júnior           │
+│  > Java · Spring Boot · React · Next.js · MySQL          │
+│                                                          │
+│  $ git status                                            │
+│  > Sempre aprendendo... ✓                                │
+│  > Aberto a oportunidades... ✓                           │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A5276&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+João+Victor+👋;Desenvolvedor+Java+%26+Full+Stack;Estudante+de+Engenharia+de+Software;Freelancer+%7C+Apaixonado+por+código+limpo;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1A5276&center=true&vCenter=true&width=620&lines=Desenvolvedor+Java+%26+Full+Stack+%F0%9F%92%BB;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Freelancer+|+Apaixonado+por+código+limpo+%E2%9C%A8;Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Aberto+a+estágio+%2F+oportunidades+júnior+%F0%9F%91%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -118,7 +138,12 @@ Estou aberto a oportunidades de **estágio** ou posições **júnior**. Se quise
   <img src="https://komarev.com/ghpvc/?username=VictorMorais777&color=1A5276&style=flat-square&label=Visitas+ao+perfil"/>
 </p>
 
-<!-- FOOTER ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=120&section=footer"/>
-</p>
+<!-- FOOTER TERMINAL -->
+<div align="center">
+
+```bash
+$ exit
+> Obrigado pela visita! Até logo 👋
+```
+
+</div>

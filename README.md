@@ -1,6 +1,6 @@
 <!-- HEADER TERMINAL ANIMADO - FUNDO PRETO LETRAS VERDES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=680&height=280&lines=+;%24+whoami;%3E+João+Victor+da+Silva+Morais;+;%24+cat+perfil.txt;%3E+Engenharia+de+Software+@+UMC+—+6º+semestre;%3E+Desenvolvedor+Freelancer+|+Estágio+%2F+Júnior;%3E+Java+·+Spring+Boot+·+React+·+Next.js+·+MySQL;+;%24+git+status;%3E+Sempre+aprendendo...+✓;%3E+Aberto+a+oportunidades...+✓;_" alt="Terminal Animado" />
+  <img src="https://raw.githubusercontent.com/VictorMorais777/VictorMorais777/main/terminal.gif" alt="Terminal Animado" width="680"/>
 </p>
 
 <p align="center">
@@ -68,8 +68,11 @@ Atualmente estudando: **Inteligência Artificial**, Gestão de Projetos e aprimo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorMorais777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMorais777&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorMorais777&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorMorais777&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorMorais777&theme=tokyonight"/>
 </p>
 
 <p align="center">

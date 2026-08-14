@@ -1,6 +1,6 @@
 <!-- HEADER TERMINAL ANIMADO - FUNDO PRETO LETRAS VERDES -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VictorMorais777/VictorMorais777/main/terminal.gif" alt="Terminal Animado"/>
+  <img src="./terminal.gif" alt="Terminal Animado"/>
 </p>
 
 ---

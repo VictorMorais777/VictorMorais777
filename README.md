@@ -1,31 +1,6 @@
-<!-- HEADER TERMINAL ANIMADO -->
-<div align="center">
-
-```bash
-┌──────────────────────────────────────────────────────────┐
-│                    ~/joao-victor                         │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  $ whoami                                                │
-│  > João Victor da Silva Morais                           │
-│                                                          │
-│  $ cat perfil.txt                                        │
-│  > Engenharia de Software @ UMC — 6º semestre            │
-│  > Desenvolvedor Freelancer | Estágio / Júnior           │
-│  > Java · Spring Boot · React · Next.js · MySQL          │
-│                                                          │
-│  $ git status                                            │
-│  > Sempre aprendendo... ✓                                │
-│  > Aberto a oportunidades... ✓                           │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<!-- TYPING EFFECT -->
+<!-- HEADER TERMINAL ANIMADO - FUNDO PRETO LETRAS VERDES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1A5276&center=true&vCenter=true&width=620&lines=Desenvolvedor+Java+%26+Full+Stack+%F0%9F%92%BB;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Freelancer+|+Apaixonado+por+código+limpo+%E2%9C%A8;Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Aberto+a+estágio+%2F+oportunidades+júnior+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=680&height=280&lines=+;%24+whoami;%3E+João+Victor+da+Silva+Morais;+;%24+cat+perfil.txt;%3E+Engenharia+de+Software+@+UMC+—+6º+semestre;%3E+Desenvolvedor+Freelancer+|+Estágio+%2F+Júnior;%3E+Java+·+Spring+Boot+·+React+·+Next.js+·+MySQL;+;%24+git+status;%3E+Sempre+aprendendo...+✓;%3E+Aberto+a+oportunidades...+✓;_" alt="Terminal Animado" />
 </p>
 
 <p align="center">

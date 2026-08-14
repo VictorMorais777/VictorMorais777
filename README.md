@@ -1,12 +1,15 @@
-<h1 align="center">Olá, eu sou o João Victor 👋</h1>
-
+<!-- HEADER ANIMADO -->
 <p align="center">
-  <b>Desenvolvedor de Software · Estágio / Júnior</b><br/>
-  Engenharia de Software @ UMC · 6º semestre · Freelancer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=200&section=header&text=João%20Victor&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20|%20Estágio%20/%20Júnior&descAlignY=58&descSize=18"/>
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A5276&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+João+Victor+👋;Desenvolvedor+Java+%26+Full+Stack;Estudante+de+Engenharia+de+Software;Freelancer+%7C+Apaixonado+por+código+limpo;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joão-victor-da-silva-de-morais/">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-de-morais/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:joaovictrr6@gmail.com">
@@ -67,6 +70,31 @@ Atualmente estudando: **Inteligência Artificial**, Gestão de Projetos e aprimo
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorMorais777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMorais777&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorMorais777&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake comendo minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorMorais777/VictorMorais777/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorMorais777/VictorMorais777/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/VictorMorais777/VictorMorais777/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+---
+
 ## 📚 Formação & Cursos
 
 - 🎓 **Engenharia de Software** — Universidade de Mogi das Cruzes (2024–2027)
@@ -77,24 +105,20 @@ Atualmente estudando: **Inteligência Artificial**, Gestão de Projetos e aprimo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorMorais777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMorais777&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ## 📬 Contato
 
 Estou aberto a oportunidades de **estágio** ou posições **júnior**. Se quiser conversar, me chama!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joão-victor-da-silva-de-morais/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-de-morais/">LinkedIn</a> ·
   <a href="mailto:joaovictrr6@gmail.com">joaovictrr6@gmail.com</a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VictorMorais777&color=1A5276&style=flat-square&label=Visitas+ao+perfil"/>
+</p>
+
+<!-- FOOTER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=120&section=footer"/>
 </p>

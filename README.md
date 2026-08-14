@@ -1,6 +1,15 @@
 <!-- HEADER TERMINAL ANIMADO - FUNDO PRETO LETRAS VERDES -->
 <p align="center">
-  <img src="./terminal.gif" alt="Terminal Animado"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=680&height=280&lines=+;%24+whoami;%3E+João+Victor+da+Silva+Morais;+;%24+cat+perfil.txt;%3E+Engenharia+de+Software+@+UMC+—+6º+semestre;%3E+Desenvolvedor+Freelancer+|+Estágio+%2F+Júnior;%3E+Java+·+Spring+Boot+·+React+·+Next.js+·+MySQL;+;%24+git+status;%3E+Sempre+aprendendo...+✓;%3E+Aberto+a+oportunidades...+✓;_" alt="Terminal Animado" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-de-morais/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joaovictrr6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -59,12 +68,12 @@ Atualmente estudando: **Inteligência Artificial**, Gestão de Projetos e aprimo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorMorais777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMorais777&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorMorais777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMorais777&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorMorais777&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=VictorMorais777&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

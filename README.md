@@ -1,79 +1,100 @@
-# 👋 Olá, eu sou o João Victor da Silva de Morais!
-
-🎓 Estudante de Engenharia de Software  
-☕ Focado em desenvolvimento com Java  
-💻 Apaixonado por tecnologia e resolução de problemas  
-🚀 Em constante evolução como desenvolvedor  
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante de Engenharia de Software com foco em **desenvolvimento backend com Java** e interesse em construção de aplicações completas.
-
-Tenho experiência com desenvolvimento web, banco de dados e integração de sistemas, além de projetos práticos voltados para resolver problemas reais.
-
-Atualmente, estou focado em:
-- ☕ Desenvolvimento com Java
-- 💻 Front-End com React
-- 📊 Data & Analytics
-- 🔗 APIs e integrações
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-## 🛠️ Tecnologias
+<h1 align="center">Olá, eu sou o João Victor 👋</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="50"/>
+  <b>Desenvolvedor de Software · Estágio / Júnior</b><br/>
+  Engenharia de Software @ UMC · 6º semestre · Freelancer
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joão-victor-da-silva-de-morais/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joaovictrr6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📚 Conhecimentos
+## Sobre mim
 
-- 🔹 Desenvolvimento backend com Java  
-- 🔹 APIs REST e integração de sistemas  
-- 🔹 Banco de dados (MySQL)  
-- 🔹 Estruturas de dados e lógica de programação  
-- 🔹 Metodologias ágeis (Scrum e Kanban)  
-- 🔹 Versionamento com Git  
+Sou estudante de Engenharia de Software apaixonado por transformar problemas reais em soluções que funcionam de verdade. Atuo como **desenvolvedor freelancer** desde 2026, construindo sistemas do zero — do levantamento de requisitos até a entrega final.
+
+Tenho base sólida em **Java e back-end**, mas também me aventuro no frontend com **React e Next.js**. Gosto de código organizado, testes que valem a pena e de aprender algo novo em cada projeto.
+
+Atualmente estudando: **Inteligência Artificial**, Gestão de Projetos e aprimorando meu inglês técnico.
 
 ---
 
-## 📌 Projetos em destaque
+## 🛠️ Tecnologias & Ferramentas
 
-### 🏥 Sistema de Gerenciamento de Consultas Médicas
-Sistema desenvolvido para gerenciar pacientes, médicos e consultas, com foco em organização, eficiência e controle de atendimentos.
+**Linguagens**
 
-✔️ Cadastro de pacientes e médicos  
-✔️ Agendamento de consultas  
-✔️ Integração com banco de dados  
-✔️ Regras de negócio com Java  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Banco de Dados & Ferramentas**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🏋️ [Sistema de Gestão para Academias](https://github.com/VictorMorais777/Sistema-Academia)
+> Sistema completo web para gestão de alunos, planos e pagamentos.
+
+- Back-end em **Java** com arquitetura em camadas e **Design Patterns** (Decorator, Command Factory)
+- Banco de dados **MySQL** com modelagem relacional e integração de APIs
+- **Testes unitários automatizados** com JUnit cobrindo os padrões implementados
+- Versionamento com **Git/GitHub**
+
+---
+
+## 📚 Formação & Cursos
+
+- 🎓 **Engenharia de Software** — Universidade de Mogi das Cruzes (2024–2027)
+- ☕ Java Completo — POO | Udemy
+- 🌐 Web Frontend Completo — HTML, CSS, JS, TS, React, Next.js | Udemy
+- 📊 Introdução à Análise de Dados com Power BI | Fundação Bradesco
+- 📈 Excel Avançado | Fundação Bradesco
 
 ---
 
 ## 📈 GitHub Stats
 
-🌐 Portfólio: https://victormorais777.github.io
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorMorais777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMorais777&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Contato
+## 📬 Contato
 
-📧 joaovictrr6@gmail.com  
-💼 www.linkedin.com/in/joão-victor-da-silva-de-morais
+Estou aberto a oportunidades de **estágio** ou posições **júnior**. Se quiser conversar, me chama!
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/joão-victor-da-silva-de-morais/">LinkedIn</a> ·
+  <a href="mailto:joaovictrr6@gmail.com">joaovictrr6@gmail.com</a>
+</p>
 
-✨ Sempre buscando aprender, evoluir e construir soluções que fazem a diferença!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictorMorais777&color=1A5276&style=flat-square&label=Visitas+ao+perfil"/>
+</p>

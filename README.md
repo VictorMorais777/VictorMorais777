@@ -41,7 +41,7 @@ Minha base é **Java e back-end** (Spring Boot, APIs REST, bancos relacionais e 
 
 **Ferramentas e Cloud**
 
-![Ferramentas](https://skillicons.dev/icons?i=git,github,docker,aws&perline=4)
+![Ferramentas](https://skillicons.dev/icons?i=git)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ---

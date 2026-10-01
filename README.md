@@ -16,39 +16,32 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software apaixonado por transformar problemas reais em soluções que funcionam de verdade. Atuo como **desenvolvedor freelancer** desde 2026, construindo sistemas do zero — do levantamento de requisitos até a entrega final.
+Estudante de Engenharia de Software e **desenvolvedor freelancer**, focado em transformar problemas reais em sistemas que funcionam de verdade. Cuido do ciclo completo: levantamento de requisitos, arquitetura, desenvolvimento, testes e entrega.
 
-Tenho base sólida em **Java e back-end**, mas também me aventuro no frontend com **React e Next.js**. Gosto de código organizado, testes que valem a pena e de aprender algo novo em cada projeto.
+Minha base é **Java e back-end** (Spring Boot, APIs REST, bancos relacionais e não relacionais), complementada por **React, Next.js e Flutter** para entregar produtos completos, do servidor à interface. Prezo por código limpo, boas práticas e testes que realmente protegem o sistema.
 
-Atualmente estudando: **Inteligência Artificial**, Gestão de Projetos e aprimorando meu inglês técnico.
+🎯 **Foco atual:** Inteligência Artificial, Gestão de Projetos e inglês técnico.
+📫 **Aberto a oportunidades de estágio e projetos freelance.**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Linguagens e Tecnologias
 
 **Linguagens**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linguagens](https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css&perline=7)
 
-**Frameworks & Mobile**
+**Frameworks e Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Frameworks](https://skillicons.dev/icons?i=spring,react,nextjs,flutter,tailwind,nodejs&perline=6)
 
-**Banco de Dados & Ferramentas**
+**Bancos de Dados**
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Bancos de Dados](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3)
+
+**Ferramentas e Cloud**
+
+![Ferramentas](https://skillicons.dev/icons?i=git,github,docker,aws&perline=4)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ---
@@ -56,13 +49,12 @@ Atualmente estudando: **Inteligência Artificial**, Gestão de Projetos e aprimo
 ## 🚀 Projetos em destaque
 
 ### 🏋️ [Sistema de Gestão para Academias](https://github.com/VictorMorais777/Sistema-Academia)
-> Sistema completo web para gestão de alunos, planos e pagamentos.
+> Plataforma web completa para gestão de alunos, planos e pagamentos.
 
 - Back-end em **Java** com arquitetura em camadas e **Design Patterns** (Decorator, Command Factory)
-- Banco de dados **MySQL** com modelagem relacional e integração de APIs
-- **Testes unitários automatizados** com JUnit cobrindo os padrões implementados
+- Banco **MySQL** com modelagem relacional e integração de APIs
+- **Testes unitários automatizados** com JUnit, cobrindo os padrões implementados
 - Versionamento com **Git/GitHub**
-
 ---
 
 ## 📈 GitHub Stats

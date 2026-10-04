@@ -20,8 +20,8 @@ Estudante de Engenharia de Software e **desenvolvedor freelancer**, focado em tr
 
 Minha base é **Java e back-end** (Spring Boot, APIs REST, bancos relacionais e não relacionais), complementada por **React, Next.js e Flutter** para entregar produtos completos, do servidor à interface. Prezo por código limpo, boas práticas e testes que realmente protegem o sistema.
 
-🎯 **Foco atual:** Inteligência Artificial, Gestão de Projetos e inglês técnico.
-📫 **Aberto a oportunidades de estágio e projetos freelance.**
+🎯 **Semestre Atual:** Inteligência Artificial e Gestão de Projetos.
+📫 **Aberto a oportunidades de estágio/junior e projetos freelance.**
 
 ---
 
